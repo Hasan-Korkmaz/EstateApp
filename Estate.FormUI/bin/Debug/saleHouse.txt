@@ -1,0 +1,6 @@
++d9ddd701-7def-438a-a531-245fd0f91146|31.01.1990 04:23:42|3|Dubleks|120|3|5000000|True|False|False|Konya,Meram,Nisan SK,3
++7cf9d06a-2bdb-4b6c-8764-8a4c4e2b0e37|2.02.2000 04:23:42|1|Dubleks|250|1|1000000|True|False|False|Konya,Meram,t,3
++1f759dfa-ef67-4c32-97db-7cc900b10b4c|2.02.2000 04:23:42|3|Dubleks|150|4|400000|True|True|False|Konya,Meram,Manolya SK,22
++51900cc6-70d6-42f8-bdb6-d483645a2924|30.10.2019 04:26:43|3|Dubleks|300|6|555555|True|False|True|Konya,Meram,Yeniyol CD,7
++edbdd8c9-4ac4-4cc2-b5ef-fa4b3384d597|30.10.2019 04:38:56|3|Dubleks|3|3|123456|True|True|False|Konya,Meram,test,3
++7f544aeb-6818-49b9-8945-306bedca7928|30.10.2019 04:45:32|8|Dubleks|8|50|8|True|True|False|Konya,Meram,8,8

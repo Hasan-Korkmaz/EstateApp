@@ -1,0 +1,16 @@
+-Konya
+Meram
+Karatay
+Selçuklu
+Ereğli
+-Ankara
+Polatlı
+Çankaya
+Çubuk
+Elmadağ
+-İstanbul
+Avcılar
+Bağcılar
+Bakırköy
+Bahçelievler
+Başakşehir

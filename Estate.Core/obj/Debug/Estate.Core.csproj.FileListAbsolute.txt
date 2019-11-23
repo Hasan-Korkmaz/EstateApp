@@ -1,0 +1,8 @@
+C:\Users\HasanKorkmaz\source\repos\Estate_Application\Estate.Core\bin\Debug\Estate.Core.dll
+C:\Users\HasanKorkmaz\source\repos\Estate_Application\Estate.Core\bin\Debug\Estate.Core.pdb
+C:\Users\HasanKorkmaz\source\repos\Estate_Application\Estate.Core\obj\Debug\Estate.Core.dll
+C:\Users\HasanKorkmaz\source\repos\Estate_Application\Estate.Core\obj\Debug\Estate.Core.pdb
+C:\Users\HasanKorkmaz\Desktop\Estate_Application\Estate.Core\bin\Debug\Estate.Core.dll
+C:\Users\HasanKorkmaz\Desktop\Estate_Application\Estate.Core\bin\Debug\Estate.Core.pdb
+C:\Users\HasanKorkmaz\Desktop\Estate_Application\Estate.Core\obj\Debug\Estate.Core.dll
+C:\Users\HasanKorkmaz\Desktop\Estate_Application\Estate.Core\obj\Debug\Estate.Core.pdb

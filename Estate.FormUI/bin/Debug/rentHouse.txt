@@ -1,0 +1,3 @@
+*77830ffc-48a5-4aa5-90b1-09d32d79751a|2.02.2000 01:32:38|2|Dubleks|400|3|2000|True|False|False|Konya,Meram,Deniz SK,2
+*cc2f4e35-9774-468a-bb7a-9721ce4f8e38|1.11.2019 01:57:41|2|Dubleks|300|2|1000|True|False|False|Konya,Meram,Yeni Mahalle SK,3
+*d9de6ddf-7db9-4c90-8b07-0131aade77d1|1.11.2019 01:58:26|3|Dubleks|300|3|700|True|True|False|Konya,Meram,Niğde SK,2
